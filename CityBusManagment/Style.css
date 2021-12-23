@@ -1,0 +1,22 @@
+﻿body {
+	
+}
+
+
+
+
+
+section {
+	width: 150vw;
+	height: 50vh;
+	background-image: url('Images/city-bus-vector-3395251.jpg');
+	
+	justify-content: flex-start;
+	align-items: center;
+	background: none repeat;
+	left: 60%;
+}
+
+
+
+
